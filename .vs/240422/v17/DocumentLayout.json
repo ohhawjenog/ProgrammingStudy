@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uC81C5\uAC15\uC758\uC2E4-18\\Documents\\GitHub\\ProgrammingStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B810144-534C-46B8-8DA6-8E90EC70D566}|240422\\240422.csproj|c:\\users\\\uC81C5\uAC15\uC758\uC2E4-18\\documents\\github\\programmingstudy\\240422\\240422.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4B810144-534C-46B8-8DA6-8E90EC70D566}|240422\\240422.csproj|solutionrelative:240422\\240422.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "240422.csproj",
+              "DocumentMoniker": "C:\\Users\\\uC81C5\uAC15\uC758\uC2E4-18\\Documents\\GitHub\\ProgrammingStudy\\240422\\240422.csproj",
+              "RelativeDocumentMoniker": "240422\\240422.csproj",
+              "ToolTip": "C:\\Users\\\uC81C5\uAC15\uC758\uC2E4-18\\Documents\\GitHub\\ProgrammingStudy\\240422\\240422.csproj",
+              "RelativeToolTip": "240422\\240422.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T01:45:43.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
